@@ -41,10 +41,7 @@ Motor specifications
 * Electronic speed controller testing
 * Copper winding
 * Neodymium magnets
-* LaTeX
-* Overleaf
-* GitHub
-
+  
 ## Repository Structure
 
 ```text
